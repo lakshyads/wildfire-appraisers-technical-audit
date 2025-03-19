@@ -63,6 +63,49 @@ graph TD
     H --> H2[Areas for Improvement]
 ```
 
+## Table of Contents
+
+- [Technical Audit Report: Wildfire Appraisers](#technical-audit-report-wildfire-appraisers)
+  - [Executive Summary](#executive-summary)
+  - [Overall Score Summary](#overall-score-summary)
+  - [Table of Contents](#table-of-contents)
+  - [Detailed Findings](#detailed-findings)
+    - [1. Architecture \& Design (Score: 7.5/10)](#1-architecture--design-score-7510)
+      - [Strengths](#strengths)
+      - [Areas for Improvement](#areas-for-improvement)
+    - [2. Security (Score: 6.5/10)](#2-security-score-6510)
+      - [Strengths](#strengths-1)
+      - [Areas for Improvement](#areas-for-improvement-1)
+    - [3. Code Quality (Score: 7.0/10)](#3-code-quality-score-7010)
+      - [Strengths](#strengths-2)
+      - [Areas for Improvement](#areas-for-improvement-2)
+    - [4. Performance (Score: 7.0/10)](#4-performance-score-7010)
+      - [Strengths](#strengths-3)
+      - [Areas for Improvement](#areas-for-improvement-3)
+    - [5. Type Safety (Score: 5.0/10)](#5-type-safety-score-5010)
+      - [Strengths](#strengths-4)
+      - [Areas for Improvement](#areas-for-improvement-4)
+    - [6. Engineering Practices (Score: 6.5/10)](#6-engineering-practices-score-6510)
+      - [Strengths](#strengths-5)
+      - [Areas for Improvement](#areas-for-improvement-5)
+    - [7. DevOps \& Deployment (Score: 5.0/10)](#7-devops--deployment-score-5010)
+      - [Strengths](#strengths-6)
+      - [Areas for Improvement](#areas-for-improvement-6)
+  - [Critical Issues](#critical-issues)
+  - [Recommendations](#recommendations)
+    - [High Priority](#high-priority)
+    - [Medium Priority](#medium-priority)
+    - [Low Priority](#low-priority)
+  - [Implementation Timeline](#implementation-timeline)
+    - [Phase 1 (1-2 months)](#phase-1-1-2-months)
+    - [Phase 2 (2-3 months)](#phase-2-2-3-months)
+    - [Phase 3 (1-2 months)](#phase-3-1-2-months)
+  - [Conclusion](#conclusion)
+  - [Appendix](#appendix)
+    - [A. Technology Stack](#a-technology-stack)
+    - [B. Audit Methodology](#b-audit-methodology)
+    - [C. References](#c-references)
+
 ## Detailed Findings
 
 ### 1. Architecture & Design (Score: 7.5/10)
@@ -458,7 +501,7 @@ gantt
     title Implementation Timeline
     dateFormat  YYYY-MM-DD
     section Phase 1
-    Security Enhancements    :a1, 2024-03-20, 30d
+    Security Enhancements    :a1, 2025-05-01, 30d
     Type Safety Improvements :a2, after a1, 30d
     Basic Testing Setup     :a3, after a2, 30d
     section Phase 2
@@ -473,21 +516,21 @@ gantt
 
 ### Phase 1 (1-2 months)
 
-- Security enhancements
-- Type safety improvements
-- Basic testing setup
+- Security enhancements (May 1 - May 30, 2025)
+- Type safety improvements (May 31 - June 29, 2025)
+- Basic testing setup (June 30 - July 29, 2025)
 
 ### Phase 2 (2-3 months)
 
-- Architecture refactoring
-- Performance optimization
-- Documentation improvements
+- Architecture refactoring (July 30 - September 27, 2025)
+- Performance optimization (September 28 - October 27, 2025)
+- Documentation improvements (October 28 - November 26, 2025)
 
 ### Phase 3 (1-2 months)
 
-- DevOps setup
-- Monitoring implementation
-- Developer experience improvements
+- DevOps setup (November 27 - December 26, 2025)
+- Monitoring implementation (December 27, 2025 - January 25, 2026)
+- Developer experience improvements (January 26 - February 24, 2026)
 
 ## Conclusion
 
